@@ -50,7 +50,7 @@ resources. List any online resources you used in the references section of your 
 4. What is the minimum oscilloscope performance required to properly capture 2 msec of a 1V, 250
    MHz sine wave? (List the required Bandwidth, Sample Rate, and Record Length)
 5. Answer the questions below based on the display shown here:
-  <img src="images/scope1.png" alt="Image of scope" width="30%"/>
+  <img src="scope1.png" alt="Image of scope" width="30%"/>
 
     a. What is the peak-to-peak voltage of the signal?
     b. What is the voltage of the positive peak?
@@ -110,7 +110,7 @@ signal in your report.
 Using the lab power supply, and LED and a resistor construct the circuit depicted below, be sure to use
 the fixed 5V output on the power supply:
 
-<img src="images/led.png" alt="Image of led" width="10%"/>
+<img src="led.png" alt="Image of led" width="10%"/>
 
 When the circuit is complete, notify the lab instructor, then answer the following questions:
 
@@ -128,7 +128,7 @@ When the circuit is complete, notify the lab instructor, then answer the followi
 Using the lab power supply, and push button and a resistor construct the circuits depicted below, be
 sure to use the fixed 5V output on the power supply:
 
-<img src="images/pull-up-down.png" alt="Pull up / pull down circuit" width="30%"/>
+<img src="pull-up-down.png" alt="Pull up / pull down circuit" width="30%"/>
 
 When the circuit is complete, notify the lab instructor, then answer the following questions:
 
