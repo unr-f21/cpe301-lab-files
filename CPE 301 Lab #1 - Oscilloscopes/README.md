@@ -50,13 +50,18 @@ resources. List any online resources you used in the references section of your 
 4. What is the minimum oscilloscope performance required to properly capture 2 msec of a 1V, 250
    MHz sine wave? (List the required Bandwidth, Sample Rate, and Record Length)
 5. Answer the questions below based on the display shown here:
-  <img src="scope1.png" alt="Image of scope" width="30%"/>
 
-    a. What is the peak-to-peak voltage of the signal?
-    b. What is the voltage of the positive peak?
-    c. What is the voltage of the negative peak?
-    d. What is the period and frequency of the signal?
-    e. What does the yellow arrow contained within the red circle on the image above
+   <img src="scope1.png" alt="Image of scope" width="30%"/>
+  
+   a. What is the peak-to-peak voltage of the signal?
+   
+   b. What is the voltage of the positive peak?
+   
+   c. What is the voltage of the negative peak?
+   
+   d. What is the period and frequency of the signal?
+   
+   e. What does the yellow arrow contained within the red circle on the image above
 denote?
 
 1. What does the yellow arrow contained within the green circle on the image above
@@ -84,17 +89,24 @@ denote?
 
 13. Cursor Measurements - Connect your oscilloscope probe to the PROBE COMP square wave output
     on the front of the oscilloscope.
+    
     a. Use the cursor menu of the oscilloscope to determine the signal amplitude.
+    
     b. Use the cursor menu of the oscilloscope to determine the signal period.
+    
     c. Recalculate the signal’s frequency. Is this calculation more accurate than the manual
     measurements?
+    
 14. Automatic Measurements - Connect your oscilloscope probe to the PROBE COMP square wave
     output on the front of the oscilloscope.
+    
     a. Record the results of the peak-to-peak amplitude and period automated measurements.
+    
     b. Recalculate the signal’s frequency. From the frequency calculations in 10,11, and 12a,
     calculate the percent difference between the manual measurement and the automatic
     measurements, and the percent difference between the cursor measurements and the
     automatic measurements.
+    
     c. Briefly explain the difference between the three different measurement techniques, and
     which technique should be used for what purposes.
 
