@@ -1,1 +1,2 @@
 # cpe301-lab-files
+This repository contains the lab files for CPE 301. The files here consitute the single source of truth for the lab exercises. You may find lab related documents in other directories on Box or in Canvas. The files here are to be treated as the only files that are correct and up to date.
