@@ -15,10 +15,10 @@ is a foundation for future lab assignments. In this lab you will learn:
 
 ## Contents:
 
-Part 1 – Oscilloscope configuration and signal measurement.
-Part 2 – Measure an arbitrary signal from the provided test circuit.
-Part 3 – Connect the power supply, a resistor, and an LED to light the LED.
-Part 4 – Construct a pullup push button circuit and a pulldown push button circuit.
+- Part 1 – Oscilloscope configuration and signal measurement.
+- Part 2 – Measure an arbitrary signal from the provided test circuit.
+- Part 3 – Connect the power supply, a resistor, and an LED to light the LED.
+- Part 4 – Construct a pullup push button circuit and a pulldown push button circuit.
 
 ## Required Equipment:
 
@@ -31,13 +31,15 @@ Part 4 – Construct a pullup push button circuit and a pulldown push button cir
 
 ## Procedure:
 
+**This lab requires you to create a lab report. The report you turn in to Webcampus must be in PDF format. Do not turn in images or Word documents.**
+
 Complete each part of the lab, answer the questions and include them in your lab report. Be
 sure to label your answers with respect to their relevant lab part and question number (ex. Part 1 #4c).
 Any handwritten drawings should be scanned and included alongside the text of your lab report.
 
 ## Part 1 – Oscilloscope Configuration and Signal Measurement
 
-Answer the questions below using the Intro_to_Scopes_Lab.pdf on webcampus, as well as any online
+Answer the questions below using the Intro\_to\_Scopes\_Lab.pdf on Webcampus, as well as any online
 resources. List any online resources you used in the references section of your lab report.
 
 1. What does an oscilloscope measure?
