@@ -156,3 +156,4 @@ When the circuit is complete, notify the lab instructor, then answer the followi
    above circuits, but substitute a toggle switch for the push button. Include the drawings in your
    lab report, and label where the signal from the switches should be measured.
 
+[]([](º))
